@@ -9,4 +9,4 @@ dependencies:
   - pandas
   - pyyaml
   - python-eccodes
-  - pyfesom2
+  - python-cdo
