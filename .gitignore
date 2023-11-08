@@ -1,9 +1,11 @@
 output/
+*.nc
 *~lock*
 *ICMGG*
 griddes.txt 
 *.pyc
-
+.ipynb_checkpoints/
+*.txt
 
 # Python virtualenv
 .ocpt.
